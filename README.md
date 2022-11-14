@@ -1,3 +1,3 @@
 # Mateusz_SZC
 strona do ćwiczeń
-zad12
+zad13-15
